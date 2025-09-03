@@ -1,0 +1,21 @@
+Course,Description
+CS 1341,"Problem-solving; basic programming techniques (data types; variables, constants, and expressions, input/output, print statements and output formatting; branching, loops, methods); object-oriented programming: classes and objects (encapsulation, composition, inheritance), UML (Class diagram only)"
+CS 1342,File handling; i/o streams; exceptions; recursion; abstract classes; interfaces; wrapper classes; polymorphism
+CS 2341,Abstract data types (lists; vectors; queues; trees; heaps; hashtables); searching and sorting algorithms; time complexity analysis
+CS 2353,"Propositional logic, truth tables, sets, functions, relations, number theory, basic proofs, mathematical induction, recurrence relations, graph theory"
+CS 2340,"Number systems, digital logic, computer architecture (processor, memory, input/output)"
+CS 3341,"Automata theory, regular expressions, grammars, programming languages, threading and multiprocessing, hash functions, encryption, digital signatures"
+CS 3353,"Sorting algorithms, basic graph algorithms; fundamental algorithmic techniques: greedy, recursive, dynamic programming, proof of algorithm correctness and time complexity"
+CS 5330,Relational database concepts; writing queries with SQL; logical database design; transaction processing concepts; overview of physical database design/query processing; noSQL data models (introduction)
+CS 5343,"Theoretical and practical aspects of operating systems: processes and threads, timesharing and multiprogramming operating systems, scheduling and synchronization tools, main and virtual memory management, interprocess communication and synchronization, and mass storage management."
+CS 5344,"Network protocols, layered communication architecture, wired and wireless data transmission, network routing, TCP/IP and UDP, Cisco packet tracer"
+CS 5328,full-stack end-to-end web app development; team-based SE; modern SE platforms/tools; SE lifecycle; agile process; API; design patterns
+CS 5351,"Status reports, project timeline, scope, risks, actions, end-to-end software solution delivery, Agile Development methodology, software engineering documentation, produce a Jira board that outlines the hybrid SDLC model using Waterfall and Agile; project management fundamentals; weekly customer status and technical meetings"
+CS 5320,Intelligent agent design; search and optimization; uncertainty and probabilistic reasoning; learning from examples
+CS 5324,"Neural Networks; Gradient-based optimization; Convolutional Networks; Transformers; Coding given in language Python with emphasis on pandas, numpy, and tensorflow."
+CS 5314,"Software quality characteristics/attributes, quality assurance, defect prevention/removal/containment, testing techniques, functional/black-box testing, structural/white-box testing, usage-based statistical testing, defect prevention and process improvement, inspection, formal verification, quality measurement/analysis/improvement."
+CS 5319,"Software Architecture and Design, Architectural Styles, Components, Connectors, Architectural Modeling/Visulization, Archtectural Evaluation, Architectural Analysis, Implementation"
+CS 3381,
+CS 4381,
+CS 5351,"Data exploration, clustering, classification, association analysis, knowledge discovery process projects following CRISP-DM."
+CS 5352,"Natural Language Models: TF-IDF, N-grams, Topic models, Neural Network based; fundamental tasks of NLP: segmentation, error correction, tagging, parsing, semantic analysis; overview of Large Language Models."
