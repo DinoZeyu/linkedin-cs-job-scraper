@@ -7,3 +7,5 @@ This project leverages the job posting data from LinkedIn to figure out the requ
 **LinkedIn_Scrapper_for_Mac.ipynb**: This file provides a Python-based web scraper designed to extract data from LinkedIn Job Postings using Selenium on macOS. It automates browser interactions to collect publicly available information such as job titles, companies, locations, and etc. 
 
 **NER.ipynb**: This file uses spaCy to build a custom matcher that identifies domain-specific entities from Computer Science terms by analyzing sections such as requirements, job descriptions, qualifications, preferred qualifications, and responsibilities.
+
+**Statistic_Visualization.ipynb**: This file counts the term frequency in CS terms extracted from job requirements, qualifications and so on. 
